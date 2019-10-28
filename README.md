@@ -1,4 +1,4 @@
-# DNDMMOBOT
+# DM BOT
 ## a discord bot for the Dungeons &amp; Dragons Games discord server.
 DM Bot is written with python 3.5.0 and discord.py 1.0.0
 
