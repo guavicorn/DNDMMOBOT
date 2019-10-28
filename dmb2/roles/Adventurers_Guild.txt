@@ -1,0 +1,15 @@
+> **Welcome to the Adventurer's Guild!** Theres a few things you should know to get started!
+> 
+> To start, all you need to do is Create a **Level 1 Character**, and submit either a picture of or a link to the character sheet in <#553084999973470229>. You can find our available races and classes on our weebly site https://dndmmo.weebly.com/source-library.html
+> 
+> To Roll for your ability scores, type `!randchar` in <#560277446461489173> if your ability score total is under 70 you may reroll, otherwise you must take point buy or standard array if you do not like your rolls
+> 
+> After doing this, you may join any game announced in <#558492556875399193> that is within your characters level range.
+> 
+> At the end of every session, you may use `!roll 1d4+4` or `>downtime` to gain the given number of downtime days to use on any downtime activity listed in Xanathar's Guide to Everything.
+> 
+> Once your first character reaches level 5 all future characters you make may start at level 3
+> 
+> Speaking of future characters, you are allowed to make as many characters as you'd like, so long as you only have one character that is below level 5. These characters may meet out of session, but they can not trade items/gold/xp at any time. Trading knowledge between characters is up to the DM running the current session, if the DM says your characters did not trade info, then they did not trade info despite anything you heard prior.
+> 
+> Remember to be respectful of others, keep use of real life racial slurs and derogatory terms out of the text and voice channels, as real life racism, harassment, and bigotry are not tolerated here. We're all here to have fun and play D&D, not discuss the latest controversial topic, there are great servers out there for real life politics, but this is not one. However, Faerûn politics are always a good and encouraged discussion.

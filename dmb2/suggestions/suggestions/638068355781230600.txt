@@ -1,0 +1,1 @@
+{"\u270b": 0, "\ud83d\udc4d": 0, "suggestion_text": "^If that feels too forced, just introduce whip daggers. Problem solved.", "\ud83d\udc4e": 0, "author_id": 172868063639764992}

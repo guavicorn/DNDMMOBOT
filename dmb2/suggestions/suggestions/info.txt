@@ -1,0 +1,1 @@
+{"roles":["Adventurer's Guild"], "majority_modifier": 1}

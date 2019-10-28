@@ -1,0 +1,1 @@
+{"\u270b": 0, "\ud83d\udc4d": 0, "suggestion_text": "<@399085981719855105>  :game_die:\n**Result:** 1d20 (5) + 17 \n**Total:** 22", "\ud83d\udc4e": 0, "author_id": 261302296103747584}
