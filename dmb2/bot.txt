@@ -1,1 +1,53 @@
-{"token": "NTY5NTcxMzM0NDg1NzA0NzA0.XLyx-A.2vJQdQB3r7jOMbuXrLJ1dLcZ8P4", "react_roles": {"635347484583133195": [["\u2694", "Adventurer's Guild"]], "637159606270820408": [["\u2694", "Adventurer's Guild"], ["\ud83c\udfee", "Lantern Archon"]], "637159532581093377": [["\u2694", "Adventurer's Guild"], ["\ud83c\udfee", "Lantern Archon"]], "base_roles": ["Lurker"], "637464823604576266": [["\u2694", "Adventurer's Guild"], ["\ud83c\udfee", "Lantern Archon"], ["\ud83d\udcac", "Helper"]], "unbound": [["\u2694", "Adventurer's Guild"], ["\ud83c\udfee", "Lantern Archon"], ["\ud83d\udcac", "Helper"]], "635344731492057117": [["\u2694", "Adventurer's Guild"]]}, "extensions": ["users", "dice", "suggestions", "roles"], "channels": {"suggestions": ["the-vote", "dm-vote", "suggestions", "emergency-vote", "nominations"]}, "lifetime": 139187, "name": "dmb", "prefix": {"on_join": ">", "468966545037590528": ">"}}
+{
+"token": "example token", 
+"react_roles": {
+  "635347484583133195": [
+    ["\u2694", "Adventurer's Guild"]
+    ], 
+  "637159606270820408": [
+    ["\u2694", "Adventurer's Guild"], 
+    ["\ud83c\udfee", "Lantern Archon"]
+    ], 
+  "637159532581093377": [
+    ["\u2694", "Adventurer's Guild"], 
+    ["\ud83c\udfee", "Lantern Archon"]
+    ], 
+  "base_roles": [
+    "Lurker"
+    ], 
+  "637464823604576266": [
+    ["\u2694", "Adventurer's Guild"], 
+    ["\ud83c\udfee", "Lantern Archon"], 
+    ["\ud83d\udcac", "Helper"]
+    ], 
+  "unbound": [
+    ["\u2694", "Adventurer's Guild"], 
+    ["\ud83c\udfee", "Lantern Archon"], 
+    ["\ud83d\udcac", "Helper"]
+    ], 
+  "635344731492057117": [
+    ["\u2694", "Adventurer's Guild"]
+    ]
+  }, 
+  "extensions": [
+    "users", 
+    "dice", 
+    "suggestions", 
+    "roles"
+    ], 
+  "channels": {
+    "suggestions": [
+      "the-vote", 
+      "dm-vote", 
+      "suggestions", 
+      "emergency-vote", 
+      "nominations"
+      ]
+    }, 
+  "lifetime": 139187, 
+  "name": "dmb", 
+  "prefix": {
+    "on_join": ">", 
+    "468966545037590528": ">"
+    }
+  }
